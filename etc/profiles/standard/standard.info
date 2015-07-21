@@ -49,6 +49,7 @@ dependencies[] = variable
 dependencies[] = views
 dependencies[] = views_ui
 dependencies[] = wysiwyg
+dependencies[] = textformatter
 
 ; Multilingual
 ; dependencies[] = i18n
