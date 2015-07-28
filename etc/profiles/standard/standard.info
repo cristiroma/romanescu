@@ -51,6 +51,8 @@ dependencies[] = views_ui
 dependencies[] = wysiwyg
 dependencies[] = textformatter
 
+dependencies[] = varnish
+
 ; Multilingual
 ; dependencies[] = i18n
 ; dependencies[] = entity_translation
