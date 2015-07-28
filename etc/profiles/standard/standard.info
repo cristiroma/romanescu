@@ -101,3 +101,5 @@ dependencies[] = textformatter
 ; dependencies[] = workbench
 ; dependencies[] = workbench_access
 ; dependencies[] = workbench_moderation
+
+dependencies[] = th_romanescu
