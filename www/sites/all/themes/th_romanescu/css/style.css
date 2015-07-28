@@ -2,3 +2,18 @@
  * This file should get overwritten if Method 1 is used. If Method 2 is chosen,
  * remove this comment and start adding your styles to this file.
  */
+
+
+.navbar-brand {
+  float: left;
+  padding: 23px 15px;
+  font-size: 18px;
+  line-height: 20px;
+}
+
+@media (min-width: 768px) {
+  .navbar-nav > li > a {
+    padding-top: 23px;
+    padding-bottom: 23px;
+  }
+}
