@@ -48,7 +48,7 @@ dependencies[] = token
 dependencies[] = variable
 dependencies[] = views
 dependencies[] = views_ui
-dependencies[] = wysiwyg
+dependencies[] = ckeditor
 dependencies[] = textformatter
 
 dependencies[] = varnish
